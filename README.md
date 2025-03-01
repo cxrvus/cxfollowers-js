@@ -1,6 +1,4 @@
-# Cxrvus Tools
-
-## followers.js
+## Usage
 
 - download followers and following from Instagram > *Download your Information*
 	- time: *All Time*
@@ -14,7 +12,3 @@
     - when comparing two follower states, rename your old `connections` folder to `archive`
     - this will be compared to the new state (`connections`)
 - finally to execute the tool, run `node js/followers.js`
-
-## transcriber.py
-
-*description pending…*
